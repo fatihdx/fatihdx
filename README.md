@@ -1,5 +1,5 @@
 
-# Merhaba, ben Fatih Dede 👋
+# Merhaba, ben Fatih 👋
 
 > **Kamu odaklı iş akışlarında güvenilirlik, işlevsellik ve kamu yararını** merkeze alan
 > **veri, otomasyon ve bilgi-akışı** prototipleri geliştiriyorum.
